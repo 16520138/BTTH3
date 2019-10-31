@@ -1,0 +1,12 @@
+E:\HK_I\Xamarin\prac\Chap6\Chap6\Chap6\bin\Debug\netstandard2.0\Chap6.deps.json
+E:\HK_I\Xamarin\prac\Chap6\Chap6\Chap6\bin\Debug\netstandard2.0\Chap6.dll
+E:\HK_I\Xamarin\prac\Chap6\Chap6\Chap6\bin\Debug\netstandard2.0\Chap6.pdb
+E:\HK_I\Xamarin\prac\Chap6\Chap6\Chap6\obj\Debug\netstandard2.0\Chap6.csprojAssemblyReference.cache
+E:\HK_I\Xamarin\prac\Chap6\Chap6\Chap6\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\HK_I\Xamarin\prac\Chap6\Chap6\Chap6\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\HK_I\Xamarin\prac\Chap6\Chap6\Chap6\obj\Debug\netstandard2.0\Chap6.csproj.CoreCompileInputs.cache
+E:\HK_I\Xamarin\prac\Chap6\Chap6\Chap6\obj\Debug\netstandard2.0\Chap6.AssemblyInfoInputs.cache
+E:\HK_I\Xamarin\prac\Chap6\Chap6\Chap6\obj\Debug\netstandard2.0\Chap6.AssemblyInfo.cs
+E:\HK_I\Xamarin\prac\Chap6\Chap6\Chap6\obj\Debug\netstandard2.0\XamlC.stamp
+E:\HK_I\Xamarin\prac\Chap6\Chap6\Chap6\obj\Debug\netstandard2.0\Chap6.dll
+E:\HK_I\Xamarin\prac\Chap6\Chap6\Chap6\obj\Debug\netstandard2.0\Chap6.pdb
